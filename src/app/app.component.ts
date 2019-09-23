@@ -7,8 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'routing-demo';
-  college:string;
-  rollNo:string;
-  address:string;
+  name : string;
+  email : string;
+  phone : string;
   
 }
