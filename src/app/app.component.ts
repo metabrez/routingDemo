@@ -11,4 +11,8 @@ export class AppComponent {
   email : string;
   phone : string;
   
+  address: string;
+  college:string;
+  employee:string;
+  
 }
